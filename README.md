@@ -17,4 +17,11 @@ Identifica las entidades clave como Libro, Usuario y Préstamo, y sus respectivo
 
 ***************************************Aqui les dejo un link con todo el material de mi proyecto***********************************************
 
+
 https://drive.google.com/file/d/1FYKlVxmybrs1OJ2erIBlQXaA2XlEiWIL/view?usp=sharing
+
+Este es el link de la actividad 5
+
+https://drive.google.com/file/d/1EzGnzIpBrI85tztrZcUaumorzaweCaKL/view?usp=sharing
+
+https://docs.google.com/document/d/1cSkd39ILa8uKkSDgW8-WPG-gNhmfuag2vttK_liqq-E/edit?usp=sharing
