@@ -1,4 +1,4 @@
-# Sistema del registro de datos luz y saber 📚
+# Sistema del registro de datos biblioteca luz y saber 
 
 - Trapiella Iñaki
 
