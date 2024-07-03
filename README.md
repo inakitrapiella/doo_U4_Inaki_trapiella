@@ -75,6 +75,8 @@ https://docs.google.com/document/d/1cSkd39ILa8uKkSDgW8-WPG-gNhmfuag2vttK_liqq-E/
 
   2. Matriz de CLAE:
 
+:link:[CLAE:](https://drive.google.com/file/d/1-jX70iEVkTZ-J9Ef_QT5QcxVw8GMBtL3/view?usp=sharing)
+
 ## Teorico Parcial.
 
   :link:[Teorico](https://docs.google.com/document/d/19LHXWdl0tmWrLCTt4GA72Vxifa6Sohz08Pr2AQhOBzg/edit?usp=sharing)
