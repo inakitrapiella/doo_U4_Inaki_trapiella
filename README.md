@@ -17,11 +17,6 @@ En respuesta a esta necesidad, se ha desarrollado una propuesta de mejora basada
 Identifica las entidades clave como Libro, Usuario y Préstamo, y sus respectivos atributos y funcionalidades. Mediante la automatización de estos procesos, se espera lograr una mejora significativa en la operatividad de la biblioteca y en la satisfacción de los usuarios.
 
 
-***************************************Aqui les dejo un link con todo el material de mi proyecto***********************************************
-
-
-https://drive.google.com/file/d/1FYKlVxmybrs1OJ2erIBlQXaA2XlEiWIL/view?usp=sharing
-
 ## Actividad N° 3.
 
 :link:[Actividad Nro 3]()
@@ -56,21 +51,24 @@ https://drive.google.com/file/d/1FYKlVxmybrs1OJ2erIBlQXaA2XlEiWIL/view?usp=shari
 
     :link:[Diagramas de caso de uso:](https://drive.google.com/file/d/1Zqq0tyTCamV-Lqpq1G4Q0bIrgPDThkvk/view?usp=sharing)
 
-  
-   
  3. Escenarios de caso de uso:
+
+    -  :link:[Escenario de caso de uso (Realizar Prestamo):]()
+    -  :link:[Diagramas de caso de uso (Registrar Devolucion):]()
+    -  :link:[Diagramas de caso de uso (Renovar Membresia):]()
 
 ## Actividad N° 5.
 
 1. Refinamiento de  Diagrama de Clases:
+
+   :link:[Diagramas de clases:](https://drive.google.com/file/d/1j3_nB3UHEaywGMEnOvhPCFffMUHKyawx/view?usp=sharing)
    
- :link:[Diagramas de clases:](https://drive.google.com/file/d/1j3_nB3UHEaywGMEnOvhPCFffMUHKyawx/view?usp=sharing)
+ 
+3. Matriz de CLAE:
 
-  2. Matriz de CLAE:
-
-:link:[CLAE:](https://drive.google.com/file/d/1-jX70iEVkTZ-J9Ef_QT5QcxVw8GMBtL3/view?usp=sharing)
+     :link:[CLAE:](https://drive.google.com/file/d/1-jX70iEVkTZ-J9Ef_QT5QcxVw8GMBtL3/view?usp=sharing)
 
 ## Teorico Parcial.
 
-  :link:[Teorico](https://docs.google.com/document/d/19LHXWdl0tmWrLCTt4GA72Vxifa6Sohz08Pr2AQhOBzg/edit?usp=sharing)
+ :link:[Teorico](https://docs.google.com/document/d/19LHXWdl0tmWrLCTt4GA72Vxifa6Sohz08Pr2AQhOBzg/edit?usp=sharing)
 
