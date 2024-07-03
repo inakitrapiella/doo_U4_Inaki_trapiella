@@ -69,7 +69,10 @@ https://docs.google.com/document/d/1cSkd39ILa8uKkSDgW8-WPG-gNhmfuag2vttK_liqq-E/
  3. Escenarios de caso de uso:
 
 ## Actividad N° 5.
- :link:[Refinamiento de diagramas de clases:](https://drive.google.com/file/d/1j3_nB3UHEaywGMEnOvhPCFffMUHKyawx/view?usp=sharing)
+
+1. Refinamiento de  Diagrama de Clases:
+   
+ :link:[Diagramas de clases:](https://drive.google.com/file/d/1j3_nB3UHEaywGMEnOvhPCFffMUHKyawx/view?usp=sharing)
 
 ## Teorico Parcial.
 
