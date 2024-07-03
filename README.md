@@ -22,13 +22,6 @@ Identifica las entidades clave como Libro, Usuario y Préstamo, y sus respectivo
 
 https://drive.google.com/file/d/1FYKlVxmybrs1OJ2erIBlQXaA2XlEiWIL/view?usp=sharing
 
-Este es el link de la actividad 5
-
-
-https://docs.google.com/document/d/1cSkd39ILa8uKkSDgW8-WPG-gNhmfuag2vttK_liqq-E/edit?usp=sharing
-
-
-
 ## Actividad N° 3.
 
 :link:[Actividad Nro 3]()
