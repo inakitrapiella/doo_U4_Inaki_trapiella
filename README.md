@@ -53,9 +53,9 @@ Identifica las entidades clave como Libro, Usuario y Préstamo, y sus respectivo
 
  3. Escenarios de caso de uso:
 
-    -  :link:[Escenario de caso de uso (Realizar Prestamo):]()
-    -  :link:[Diagramas de caso de uso (Registrar Devolucion):]()
-    -  :link:[Diagramas de caso de uso (Renovar Membresia):]()
+    -  :link:[Escenario de caso de uso (Realizar Prestamo):](https://docs.google.com/spreadsheets/d/1SnSzWoCwkA12Mxvw1kqUtbiozHp2XnI-MZVrHP4x8Tg/edit?usp=sharing)
+    -  :link:[Diagramas de caso de uso (Registrar Devolucion):](https://docs.google.com/spreadsheets/d/19yT-hiWm1JOr-ml7diMURVblV4NLreUp95mssvWQWEI/edit?usp=sharing)
+    -  :link:[Diagramas de caso de uso (Renovar Membresia):](https://docs.google.com/spreadsheets/d/1d_iybQ-gziv6dgjtibhrAE4OoZ3eBDWtFEZt_SwDtVg/edit?usp=sharing)
 
 ## Actividad N° 5.
 
