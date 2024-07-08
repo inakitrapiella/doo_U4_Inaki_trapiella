@@ -61,7 +61,7 @@ Identifica las entidades clave como Libro, Usuario y Préstamo, y sus respectivo
 
 1. Refinamiento de  Diagrama de Clases:
 
-   :link:[Diagramas de clases:](https://drive.google.com/file/d/1j3_nB3UHEaywGMEnOvhPCFffMUHKyawx/view?usp=sharing)
+   :link:[Diagramas de clases:](https://drive.google.com/file/d/1mK1nj3BCQIxtnAWj0uZLoqpek6svJ-Lp/view?usp=sharing)
    
  
 3. Matriz de CLAE:
