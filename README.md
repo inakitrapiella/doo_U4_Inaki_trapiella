@@ -66,7 +66,7 @@ Identifica las entidades clave como Libro, Usuario y Préstamo, y sus respectivo
  
 3. Matriz de CLAE:
 
-     :link:[CLAE:](https://drive.google.com/file/d/1-jX70iEVkTZ-J9Ef_QT5QcxVw8GMBtL3/view?usp=sharing)
+     :link:[CLAE:](https://drive.google.com/file/d/1au7aPCoDl9Gj3KO7uxqgq4mneMDsLW8q/view?usp=sharing)
 
 ## Teorico Parcial.
 
