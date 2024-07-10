@@ -72,3 +72,7 @@ Identifica las entidades clave como Libro, Usuario y Préstamo, y sus respectivo
 
  :link:[Teorico](https://docs.google.com/document/d/19LHXWdl0tmWrLCTt4GA72Vxifa6Sohz08Pr2AQhOBzg/edit?usp=sharing)
 
+ :link:[Antes](https://drive.google.com/file/d/19VdLW8D5z4OEoYy-fKEpoiBcshJuX8ie/view?usp=sharing)
+
+ :link:[Despues](https://drive.google.com/file/d/1qZJosMgn10v9M26Pvztl5EjyS5qN7PhR/view?usp=sharing)
+
