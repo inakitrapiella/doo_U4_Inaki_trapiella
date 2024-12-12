@@ -69,4 +69,4 @@ Identifica las entidades clave como Libro, Usuario y Préstamo, y sus respectivo
      🔗[CLAE:](https://drive.google.com/file/d/1Hy0SPTTIPJkYXPSQWiqi1tkvTx136IQU/view?usp=sharing)
 
 ## Anexos.
-🔗[Anexos](https://github.com/inakitrapiella/doo_U4_Inaki_trapiella/blob/72134b8f38b2bbeeb8e9863943c55b7c84a76a6d/Anexos.md)
+🔗[Anexos](https://github.com/inakitrapiella/doo_U4_Inaki_trapiella/blob/94a4e25d4605aa5731f937947a1d86dea30c2d02/Anexos.md)
