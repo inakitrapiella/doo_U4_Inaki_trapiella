@@ -9,7 +9,7 @@
 >
 >Polimorfismo: Facilita que diferentes objetos respondan de manera distinta al mismo método, aumentando la flexibilidad del sistema.
 
-1. [Encapsulamiento]()
-2. [Abstraccion]()
-3. [Herencia]()
-4. [Polimorfismo]()
+1. [Encapsulamiento](https://github.com/inakitrapiella/doo_U4_Inaki_trapiella/blob/48916b3b21540bf3681dda3406d996bbb6fe7363/DooEncapsulamiento.md)
+2. [Abstraccion](https://github.com/inakitrapiella/doo_U4_Inaki_trapiella/blob/48916b3b21540bf3681dda3406d996bbb6fe7363/DooAbstraccion.md)
+3. [Herencia](https://github.com/inakitrapiella/doo_U4_Inaki_trapiella/blob/48916b3b21540bf3681dda3406d996bbb6fe7363/DooHerencia.md)
+4. [Polimorfismo](https://github.com/inakitrapiella/doo_U4_Inaki_trapiella/blob/48916b3b21540bf3681dda3406d996bbb6fe7363/DooPolimorfismo.md)
