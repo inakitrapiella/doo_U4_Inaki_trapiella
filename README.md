@@ -16,63 +16,57 @@ La Biblioteca Municipal Luz y Saber enfrenta una problemática significativa deb
 En respuesta a esta necesidad, se ha desarrollado una propuesta de mejora basada en la implementación de un sistema informático. Este sistema está diseñado para gestionar de manera eficiente el inventario de libros, la información de los usuarios, los préstamos y devoluciones. Además, busca optimizar la interacción con los usuarios, reduciendo las colas y agilizando las consultas y transacciones.
 Identifica las entidades clave como Libro, Usuario y Préstamo, y sus respectivos atributos y funcionalidades. Mediante la automatización de estos procesos, se espera lograr una mejora significativa en la operatividad de la biblioteca y en la satisfacción de los usuarios.
 
-
+# Diagramas y Diseños
 ## Actividad N° 3.
 
-:link:[Actividad Nro 3]()
+🔗[Actividad Nro 3]()
 
 1. Diagrama de Actividades:
 
-      :link:[Diagrama de actividades:](https://docs.google.com/document/d/13tIp0sb4ZkPNTaM7tNVPjsnvdtKLNdQzZyD0l0gVIkI/edit?usp=sharing)
+      🔗[Diagrama de actividades:](https://docs.google.com/document/d/13tIp0sb4ZkPNTaM7tNVPjsnvdtKLNdQzZyD0l0gVIkI/edit?usp=sharing)
 
     
  2. Diagramas de Secuencias:
 
-      :link:[Diagrama consultar libro:](https://drive.google.com/file/d/1zB3ZT4111fvl97TOswGuI5ouAD4h7WNH/view?usp=sharing)
+      🔗[Diagrama consultar libro:](https://drive.google.com/file/d/1zB3ZT4111fvl97TOswGuI5ouAD4h7WNH/view?usp=sharing)
 
-      :link:[Registro usuario Diagrama:](https://drive.google.com/file/d/1hay68faEZaOzVlJ6zAMjnf0NIKJh_Dh6/view?usp=sharing)
+      🔗[Registro usuario Diagrama:](https://drive.google.com/file/d/1hay68faEZaOzVlJ6zAMjnf0NIKJh_Dh6/view?usp=sharing)
 
-      :link:[Renovar préstamo diagrama:](https://drive.google.com/file/d/1W0CVeM1jjBeBhZSHUGhHw3uLWv0XSJUf/view?usp=sharing)
+      🔗[Renovar préstamo diagrama:](https://drive.google.com/file/d/1W0CVeM1jjBeBhZSHUGhHw3uLWv0XSJUf/view?usp=sharing)
     
-      :link:[Generar reporte de préstamo diagrama](https://drive.google.com/file/d/1hAe05Pj1bL5k_GxWlD-x4CgFEBDGMUg3/view?usp=sharing)
+      🔗[Generar reporte de préstamo diagrama](https://drive.google.com/file/d/1hAe05Pj1bL5k_GxWlD-x4CgFEBDGMUg3/view?usp=sharing)
 
-      :link:[Enviar solicitud de multa](https://drive.google.com/file/d/17bJPNptaCeuOWKkzcBD3dOcnhlFcjnHe/view?usp=sharing)
+      🔗[Enviar solicitud de multa](https://drive.google.com/file/d/17bJPNptaCeuOWKkzcBD3dOcnhlFcjnHe/view?usp=sharing)
    
 
 ## Actividad N° 4.
 
  1. Tarjetas CRC:
     
-    :link:[Tarjetas CRC:](https://drive.google.com/file/d/1pPOb_OS1ejRTN-qSxvZdNfXDx1ryrZR4/view?usp=sharing)
+    🔗[Tarjetas CRC:](https://drive.google.com/file/d/1pPOb_OS1ejRTN-qSxvZdNfXDx1ryrZR4/view?usp=sharing)
 
 
 
  2. Diagramas de caso de uso:
 
-    :link:[Diagramas de caso de uso:](https://drive.google.com/file/d/1Zqq0tyTCamV-Lqpq1G4Q0bIrgPDThkvk/view?usp=sharing)
+    🔗[Diagramas de caso de uso:](https://drive.google.com/file/d/1Zqq0tyTCamV-Lqpq1G4Q0bIrgPDThkvk/view?usp=sharing)
 
  3. Escenarios de caso de uso:
 
-    -  :link:[Escenario de caso de uso (Realizar Prestamo):](https://docs.google.com/spreadsheets/d/1SnSzWoCwkA12Mxvw1kqUtbiozHp2XnI-MZVrHP4x8Tg/edit?usp=sharing)
-    -  :link:[Diagramas de caso de uso (Registrar Devolucion):](https://docs.google.com/spreadsheets/d/19yT-hiWm1JOr-ml7diMURVblV4NLreUp95mssvWQWEI/edit?usp=sharing)
-    -  :link:[Diagramas de caso de uso (Renovar Membresia):](https://docs.google.com/spreadsheets/d/1d_iybQ-gziv6dgjtibhrAE4OoZ3eBDWtFEZt_SwDtVg/edit?usp=sharing)
+    -  🔗[Escenario de caso de uso (Realizar Prestamo):](https://docs.google.com/spreadsheets/d/1SnSzWoCwkA12Mxvw1kqUtbiozHp2XnI-MZVrHP4x8Tg/edit?usp=sharing)
+    -  🔗[Diagramas de caso de uso (Registrar Devolucion):](https://docs.google.com/spreadsheets/d/19yT-hiWm1JOr-ml7diMURVblV4NLreUp95mssvWQWEI/edit?usp=sharing)
+    -  🔗[Diagramas de caso de uso (Renovar Membresia):](https://docs.google.com/spreadsheets/d/1d_iybQ-gziv6dgjtibhrAE4OoZ3eBDWtFEZt_SwDtVg/edit?usp=sharing)
 
 ## Actividad N° 5.
 
 1. Refinamiento de  Diagrama de Clases:
 
-   :link:[Diagramas de clases:](https://drive.google.com/file/d/1GhoNr12-hgb9KNDxdDwhTgUNSt-r0GQY/view?usp=sharing)
+   🔗[Diagramas de clases:](https://drive.google.com/file/d/1GhoNr12-hgb9KNDxdDwhTgUNSt-r0GQY/view?usp=sharing)
    
  
 3. Matriz de CLAE:
 
-     :link:[CLAE:](https://drive.google.com/file/d/1Hy0SPTTIPJkYXPSQWiqi1tkvTx136IQU/view?usp=sharing)
+     🔗[CLAE:](https://drive.google.com/file/d/1Hy0SPTTIPJkYXPSQWiqi1tkvTx136IQU/view?usp=sharing)
 
-## Teorico Parcial.
-
- :link:[Teorico](https://docs.google.com/document/d/19LHXWdl0tmWrLCTt4GA72Vxifa6Sohz08Pr2AQhOBzg/edit?usp=sharing)
-
- :link:[Antes](https://drive.google.com/file/d/19VdLW8D5z4OEoYy-fKEpoiBcshJuX8ie/view?usp=sharing)
-
- :link:[Despues](https://drive.google.com/file/d/1qZJosMgn10v9M26Pvztl5EjyS5qN7PhR/view?usp=sharing)
-
+## Anexos.
+🔗[Anexos](https://github.com/inakitrapiella/doo_U4_Inaki_trapiella/blob/72134b8f38b2bbeeb8e9863943c55b7c84a76a6d/Anexos.md)
